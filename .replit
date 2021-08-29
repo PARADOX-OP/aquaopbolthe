@@ -1,2 +1,2 @@
 language = "bash"
-run = "npm i"
+run = "npm index.html"
